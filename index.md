@@ -1,4 +1,4 @@
-[Карта офиса с со списком переговорок](https://map.keyzil.team)
+[Карта офиса со списком переговорок](https://map.keyzil.team)
 
 [API](https://map.keyzil.team/api/swagger)
 
